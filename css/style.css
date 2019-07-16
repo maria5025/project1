@@ -1,0 +1,157 @@
+.head{
+	display: inline-block;
+	padding: 25px; 
+	font-family: 'Roboto Slab', serif;
+	vertical-align: middle;
+
+
+}
+.mtavari{
+	display: inline-block;
+	background-color: black;
+	height: 100%;
+	width: 100%;
+	background-color: black;
+	color:white;
+	display: inline-block;
+}
+.logo{
+	float:left;
+	height: 100px;
+	margin-right: 100px;
+	margin-left: 200px;
+}
+span{
+	font-weight: bold;
+}
+.Live{
+	font-size: 50px;
+	display: inline-block;
+	position: absolute;
+	top:450px;
+	left: 190px;
+	color:white;
+	font-weight: bold;
+}
+.live{
+	font-size: 30px;
+	display: inline-block;
+	position: absolute;
+	top:550px;
+	left: 240px;
+	color:white;
+}
+
+.event1{
+	font-size: 25px;
+    display: inline-block;
+	position: absolute;
+	top:700px;
+	left: 300px;
+	color:white;
+	padding: 10px;
+	border: solid;
+    border-width: medium;
+    border-width: thin;
+}
+.event2{
+	display: inline-block;
+	font-size: 25px;
+    display: inline-block;
+	position: absolute;
+	top:700px;
+	left: 500px;
+	color:white;
+	border: solid;
+    border-width: medium;
+    border-width: thin;
+    padding: 10px;
+}
+.event3{
+	display: inline-block;
+	font-size: 25px;
+    display: inline-block;
+	position: absolute;
+	top:700px;
+	left: 620px;
+	color:aqua;
+	border: solid white;
+    border-width: medium;
+    border-width: thin;
+    padding: 10px;
+    background-color:white;
+}
+.log{
+	display:inline-block;
+	margin-right: 40px;
+}
+.log1{
+	display: inline-block;
+    height: 20px;
+    margin-right: 10px;
+}
+.navbar-ul{
+	display: 
+}
+.login{
+	display: inline-block;
+	height: 20px;
+	margin-left: 70px;
+}
+.foto{
+	width: 100%;
+	display: inline-block;
+	position: relative;
+}
+.phone{ 
+	display: inline-block;
+	position: absolute;
+	top:450px;
+	left: 950px;
+	height: 600px;
+}
+.text1{
+	display: inline-block;
+	color:aqua;
+	font-size: 40px;
+	text-align: middle;
+	letter-spacing: 3px;
+}
+.one{
+	display: inline-block;
+	margin:100px;
+	background-color: aqua;
+	border: solid aqua;
+    border-width: medium;
+    border-width: thin;
+    height: 100px;
+    margin-left:300px;
+}
+.two{display: inline-block;
+	margin:100px;
+	border: solid aqua;
+    border-width: medium;
+    border-width: thin;
+    margin:100px;
+    padding: 10px;
+    height: 100px;
+}
+.three{display: inline-block;
+	margin:100px;
+	border: solid aqua;
+    border-width: medium;
+    border-width: thin;
+    margin:100px;
+    padding: 10px;
+    height: 100px;
+}
+.four{display: inline-block;
+	margin:100px;
+	border: solid aqua;
+    border-width: medium;
+    border-width: thin;
+    margin:100px;
+    padding: 10px;
+    height: 100px;
+    margin-right: 300px;
+}
